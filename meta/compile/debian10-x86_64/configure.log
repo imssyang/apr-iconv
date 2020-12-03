@@ -1,0 +1,12 @@
+❯ ./configure --prefix=/opt/apr-iconv --with-apr=/opt/apr 2>../configure.log 1>&2
+checking for gawk... no
+checking for mawk... mawk
+checking for a BSD-compatible install... /usr/bin/install -c
+checking for APR... yes
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating ccs/Makefile
+config.status: creating ces/Makefile
+config.status: creating lib/Makefile
+config.status: creating util/Makefile
+config.status: creating lib/apr_iconv_private.h
